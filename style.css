@@ -1,0 +1,42 @@
+.pic {
+  width: 50%;
+}
+.myButton {
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+  background: linear-gradient(to bottom, #66bfbf 5%, #66bfbf 100%);
+  background-color: #66bfbf;
+  border-radius: 6px;
+  border: 1px solid #66bfbf;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  padding: 6px 24px;
+  text-decoration: none;
+  margin: auto;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #66bfbf 5%, #33bdef 100%);
+  background-color: #66bfbf;
+  text-decoration: none;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.profile-body {
+  text-align: justify;
+}
+.footer {
+  background-color: rgb(110, 107, 107);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
